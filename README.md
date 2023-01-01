@@ -39,6 +39,6 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 
 <br/>
 
-![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauhid143&show_icons=true&theme=blueberry&count_private=true)
+![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriertauhid&show_icons=true&theme=blueberry&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tauhid143) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriertauhid) 
