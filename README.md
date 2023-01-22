@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tauhid</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Shahiduzzaman Tauhid</h1>
+<h3 align="center">A passionate Web designer & Developer</h3>
 Quick notes, in case you don’t feel like reading all of this: I design and build websites. I’m fluent in HTML, CSS and wordpress and pretty handly with php, javascript. I am now in the learning stage.
 
-- 🌱 I’m currently learning php 😄
-- 👯 I’m looking to collaborate on a php Project 📝
+- 🌱 I’m currently learning MERN 😄
+- 👯 I’m looking to collaborate on front-end Project 📝
 - ⚡ Fun fact: I love traveling 🎮🕹️ 
 
 
@@ -39,6 +39,6 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 
 <br/>
 
-![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriertauhid&show_icons=true&theme=blueberry&count_private=true)
+![Tauhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahiduzzamantauhid&show_icons=true&theme=blueberry&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriertauhid) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahiduzzamantauhid) 
