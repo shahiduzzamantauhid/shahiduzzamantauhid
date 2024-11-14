@@ -9,6 +9,7 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 ### Shahiduzzaman Tauhid
   
 <a href="https://app.daily.dev/shahiduzzamantauhid"><img src="https://api.daily.dev/devcards/a70a0a685b8d4f6fa93ba53e223a3ec8.png?r=ze9" width="400" alt="Shahiduzzaman Tauhid's Dev Card"/></a>
+<a href="https://app.daily.dev/shahiduzzamantauhid"><img src="https://api.daily.dev/devcards/v2/7spQNEXRDY4kSGHZnFImB.png?r=0wy&type=wide" width="652" alt="Shahiduzzaman Tauhid's Dev Card"/></a>
 
 ### Contuct with me
 
